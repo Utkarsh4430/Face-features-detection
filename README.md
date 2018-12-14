@@ -1,2 +1,3 @@
 # OpenCV
-The repo contains few basic applications of openCV library.
+The repo contains few basic applications of OpenCV library.
+> Used the haarcascades method
